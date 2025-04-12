@@ -1,0 +1,29 @@
+# Archivos compilados
+*.exe
+*.out
+*.app
+*.o
+*.a
+*.so
+*.dll
+*.dylib
+
+# Directorios de compilación
+build/
+cmake-build-debug/
+cmake-build-release/
+
+# Archivos de IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de datos binarios
+*.bin
+*.idx
+*.sdx 
